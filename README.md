@@ -13,7 +13,7 @@ https://youtu.be/CxQYiHvQ20s
 
 add to pubsec
 
-`cool_bar: 0.0.1`
+`cool_bottom_bar: 0.0.1`
 
 import 
 
